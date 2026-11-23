@@ -5,6 +5,8 @@ against the page it came from**, flag vague "greenwashing" claims, classify cont
 and answer questions with page citations.
 
 
+**Live demo:** https://esglens-ai-cj8gzkti279zrqre8ze22w.streamlit.app/
+
 ## Screenshots
 ![metrics](screenshots/metrics.png)
 ![greenwashing ](screenshots/greenwashing.png)
