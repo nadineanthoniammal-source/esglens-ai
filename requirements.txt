@@ -1,0 +1,15 @@
+streamlit>=1.50
+langchain-core>=0.3
+langchain-groq>=0.2
+langchain-text-splitters>=0.3
+langgraph>=0.2
+chromadb>=0.5
+pypdf>=4.0
+pandas>=2.0
+scikit-learn>=1.4
+pydantic>=2.0
+python-dotenv>=1.0
+fastapi>=0.110
+uvicorn>=0.29
+python-multipart>=0.0.9
+pysqlite3-binary; sys_platform == "linux"
