@@ -4,7 +4,7 @@ Upload an Indian **BRSR / sustainability report (PDF)**. AI agents extract the k
 against the page it came from**, flag vague "greenwashing" claims, classify content into E/S/G, compare reports,
 and answer questions with page citations.
 
-**Live demo:** _add your Streamlit link here_
+
 ## Screenshots
 ![metrics](screenshots/metrics.png)
 ![greenwashing ](screenshots/greenwashing.png)
@@ -34,7 +34,7 @@ Stack: Python, LangChain, LangGraph, ChromaDB, Groq cloud LLM API, scikit-learn,
 
 ## Results (hand-verified)
 Reliance Industries BRSR FY 2024-25: **8 of 8 checked fields correct** (company/year, Scope 1, Scope 2, energy,
-renewable share (derived), water, waste, net-zero year). One report only — more testing needed.
+renewable share (derived), water, waste, net-zero year). Two reports checked (Reliance FY24-25 and FY23-24). More companies needed.
 
 | Report | Fields checked | Correct | Notes |
 |---|---|---|---|
