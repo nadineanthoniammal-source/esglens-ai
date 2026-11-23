@@ -62,6 +62,6 @@ Nodes: **Schedule/Drive Trigger → Read PDF → HTTP Request (POST http://local
 
 ## Limitations
 - Checks that a number appears on the cited page, not that it sits under the right row label.
-- E/S/G classifier is trained on a small seed set — add rows to `data/labeled.csv` to improve it.
+- E/S/G classifier is trained on a small seed set (optional extra rows can go in data/labeled.csv).
 - Scanned (image-only) PDFs are not supported. Scope 3 is often not disclosed in BRSR.
 - LLM output can vary between runs; always spot-check against the PDF.
