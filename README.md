@@ -9,6 +9,7 @@ and answer questions with page citations.
 ![metrics](screenshots/metrics.png)
 ![greenwashing ](screenshots/greenwashing.png)
 ![report](screenshots/report.png)
+![report, part 2](screenshots/report2.png)
 ![compare](screenshots/compare.png)
 ## Features
 | Feature | What it does |
