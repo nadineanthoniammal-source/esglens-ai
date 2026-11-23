@@ -5,7 +5,11 @@ against the page it came from**, flag vague "greenwashing" claims, classify cont
 and answer questions with page citations.
 
 **Live demo:** _add your Streamlit link here_
-
+## Screenshots
+![metrics](screenshots/metrics.png)
+![greenwashing ](screenshots/greenwashing.png)
+![report](screenshots/report.png)
+![compare](screenshots/compare.png)
 ## Features
 | Feature | What it does |
 |---|---|
@@ -34,7 +38,7 @@ renewable share (derived), water, waste, net-zero year). One report only — mor
 | Report | Fields checked | Correct | Notes |
 |---|---|---|---|
 | Reliance FY24-25 | 8 | 8 | |
-| _add next report_ | | | |
+| Reliance FY23-24 | 6 | 6 | matched the prior-year column of the FY24-25 report |
 
 ## Run locally
 ```bash
